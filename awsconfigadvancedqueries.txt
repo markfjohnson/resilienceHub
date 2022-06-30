@@ -1,0 +1,22 @@
+SELECT
+   *
+ WHERE resourceType='AWS::Lambda::Function'
+
+SELECT
+   *
+ WHERE resourceType='AWS::RDS::DBCluster'
+
+SELECT
+   *
+ WHERE resourceType='AWS::Kinesis::Stream'
+
+SELECT
+   *
+  WHERE resourceType='AWS::EKS::Cluster'
+
+SELECT
+   *
+  WHERE resourceType='AWS::ECS::TaskDefinition'/'AWS::ECS::Cluster'/'AWS::ECS::Service'
+ # AWS::Lambda::Function
+ # AWS::RDS::DBCluster
+ # AWS::DynamoDB::Table

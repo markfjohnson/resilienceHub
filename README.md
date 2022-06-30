@@ -1,4 +1,4 @@
-
+https://w.amazon.com/bin/view/AmazonWebServices/SalesSupport/DeveloperSupport/Internal/Sharing_Scripts_or_Code/
 # Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
