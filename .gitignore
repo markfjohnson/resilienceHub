@@ -1,3 +1,5 @@
 /.venv/
 /tests/
 /temp.*
+*.csv
+*.pem
